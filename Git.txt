@@ -6,5 +6,5 @@ ok
 
 modified by you
 write new command
-# dummy
 For Git comman
+append comment
